@@ -1,4 +1,11 @@
 body{
-    background-color: brown;
+    background-color: rgb(230, 96, 96);
     color: beige;
+}
+.header {
+   color: blueviolet;
+   font-size: 50px;
+   display: flex;
+   justify-content: center;
+   letter-spacing: 2px;
 }
